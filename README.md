@@ -1,6 +1,6 @@
 # 🎯 SpringBoot-Cassandra ?
 
-<img src="">
+<img src="https://github.com/rasitesdmr/SpringBoot-Cassandra/blob/master/image/cas7.jpg">
 
 ## 📌 docker-compose.yaml
 
@@ -28,9 +28,9 @@ docker-compose down -v
 
 # 🎯 Cassandra ?
 
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/rasitesdmr/SpringBoot-Cassandra/blob/master/image/cas3.png">
+<img src="https://github.com/rasitesdmr/SpringBoot-Cassandra/blob/master/image/cas2.PNG">
+<img src="https://github.com/rasitesdmr/SpringBoot-Cassandra/blob/master/image/cas1.png">
 
 # 📌 Cassandra Create Keyspace ?
 
@@ -64,9 +64,9 @@ cqlsh:studentkeyspace> CREATE TABLE student(studentnumber int PRIMARY KEY,firstn
 
 ## 📌 Steps
 
-<img src="">
+<img src="https://github.com/rasitesdmr/SpringBoot-Cassandra/blob/master/image/cas9.png">
 
-<img src="">
+<img src="https://github.com/rasitesdmr/SpringBoot-Cassandra/blob/master/image/cas10.png">
 
 
 
