@@ -32,7 +32,7 @@ docker-compose down -v
 <img src="https://github.com/rasitesdmr/SpringBoot-Cassandra/blob/master/image/cas2.PNG">
 <img src="https://github.com/rasitesdmr/SpringBoot-Cassandra/blob/master/image/cas1.png">
 
-# 📌 Cassandra Create Keyspace ?
+## 📌 Cassandra Create Keyspace ?
 
 ```shell
 # cqlsh
@@ -52,7 +52,7 @@ studentkeyspace  system_auth         system_schema  system_views
 system           system_distributed  system_traces  system_virtual_schema
 ```
 
-# 📌 Cassandra Create Table ?
+## 📌 Cassandra Create Table ?
 
 ```shell
 cqlsh> use studentkeyspace;
