@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+#  app:
+#    build: .
+#    ports:
+#      - "5555:5555"
+#    restart: always
+#    environment:
+#      - SPRING_DATA_CASSANDRA_PORT
+#      - SPRING_DATA_CASSANDRA_CONTACT_POINTS
+#      - SPRING_DATA_CASSANDRA_KEYSPACE_NAME
+#      - SPRING_DATA_CASSANDRA_SCHEMA_ACTION
+#      - SPRING_DATA_CASSANDRA_LOCAL_DATACENTER
+#    depends_on:
+#      - cassandra
+
+  cassandra:
+    image: cassandra:latest
+    restart: always
+    ports:
+      - "9042:9042"
